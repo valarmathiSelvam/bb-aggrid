@@ -1,0 +1,19 @@
+{
+  "type": "component",
+  "metadata": {},
+  "schema": {
+    "name": "aggrid",
+    "friendlyName": "aggrid",
+    "description": "An amazing Budibase component!",
+    "icon": "Text",
+    "settings": [
+      {
+        "type": "TEXT",
+        "key": "text",
+        "label": "Text"
+      }
+    
+    
+    ]
+  }
+}
