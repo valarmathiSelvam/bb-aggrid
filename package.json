@@ -12,6 +12,7 @@
   "dependencies": {
     "@crownframework/svelte-error-boundary": "^1.0.3",
     "ag-grid-community": "^29.3.5",
+    "ag-grid-enterprise": "^29.3.5",
     "ag-grid-react": "^29.3.5",
     "ag-grid-svelte": "^0.2.1",
     "file-saver": "^2.0.5",

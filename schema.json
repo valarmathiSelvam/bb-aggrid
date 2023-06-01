@@ -8,12 +8,102 @@
     "icon": "Text",
     "settings": [
       {
-        "type": "TEXT",
-        "key": "text",
-        "label": "Text"
+        "type": "text",
+        "key": "apiData",
+        "label": "URL"
+      },
+      {
+        "type": "text",
+        "key": "title",
+        "label": "Title"
+      },
+      {
+        "type": "select",
+        "options": ["100","400","500","700","900"],
+        "key": "titlefontWeight",
+        "label": "Title Font Weight",
+        "defaultValue": "500"
+      },
+      {
+        "type": "color",
+        "key": "titleFontColor",
+        "label": "Title Font color"
+      },
+      {
+        "type": "color",
+        "key": "headerbackground",
+        "label": "Title background color"
+      },
+      {
+        "type": "boolean",
+        "key": "showDownloadButton",
+        "label": "Show download button?"
+      },
+      {
+        "type": "text",
+        "key": "Button",
+        "label": "Button"
+      },
+      {
+        "type": "color",
+        "key": "buttonFontColor",
+        "label": "Button Font color"
+      },
+      {
+        "type": "color",
+        "key": "buttonBackgroundColor",
+        "label": "Button background color"
+      },
+      {
+        "type": "select",
+        "options":["10","12","14","16","18","20","22","24"],
+        "key": "rowFontSize",
+        "label": "Table header font size"
+      },
+      {
+        "type": "color",
+        "key": "headerforeground",
+        "label": "Header font color"
+      },
+      {
+        "type": "color",
+        "key": "tableheaderbackground",
+        "label": "Table header background color"
+      },
+      {
+        "type": "select",
+        "options": ["1px","2px","3px","4px","5px"],
+        "key": "buttonRadius",
+        "label": "Button radius"
+      },
+      {
+        "type": "select",
+        "options": ["100","400","500","700","900"],
+        "key": "fontWeight",
+        "label": "Data Font Weight",
+        "defaultValue": "500"
+      },
+      {
+        "type": "color",
+        "key": "dataColor",
+        "label": "Data font color"
+      },
+      {
+        "type": "select",
+        "options":["Times New Roman","Arial","sans-serif","Calibri","Calibri Light","Roboto"],
+        "key": "rowFontStyle",
+        "label": "Data font style"
+      },
+      {
+        "type": "color",
+        "key": "tableoddrowbackground",
+        "label": "Table odd row background color"
+      },
+      {
+        "type": "color",
+        "key": "tableBackgroundColor",
+        "label": "Table background color"
       }
-    
-    
     ]
   }
 }

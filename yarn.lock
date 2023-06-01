@@ -356,6 +356,11 @@
   "resolved" "https://registry.npmjs.org/ag-grid-community/-/ag-grid-community-29.3.5.tgz"
   "version" "29.3.5"
 
+"ag-grid-enterprise@^29.3.5":
+  "integrity" "sha512-5CVdcuD1uZWjAN7R/laFyiGZ9/DjdYUqERBGtMHMJiVwotp6TUiPryrHYxs29LvGlM4/0tNzEZ/OxtD3OYA6sg=="
+  "resolved" "https://registry.npmjs.org/ag-grid-enterprise/-/ag-grid-enterprise-29.3.5.tgz"
+  "version" "29.3.5"
+
 "ag-grid-react@^29.3.5":
   "integrity" "sha512-Eg0GJ8hEBuxdVaN5g+qITOzhw0MGL9avL0Oaajr+p7QRtq2pIFHLZSknWsCBzUTjidiu75WZMKwlZjtGEuafdQ=="
   "resolved" "https://registry.npmjs.org/ag-grid-react/-/ag-grid-react-29.3.5.tgz"
